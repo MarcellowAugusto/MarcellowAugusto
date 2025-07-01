@@ -51,8 +51,11 @@
 
 ---
 
-<p align="center">🛠️ Essa conquista começou lá atrás… quando eu escolhi não desistir. 🙏</p>
-
-![snake gif](https://raw.githubusercontent.com/MarcellowAugusto/MarcellowAugusto/output/dist/github-contribution-grid-snake.svg)
+</picture>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcellowAugusto/MarcellowAugusto/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcellowAugusto/MarcellowAugusto/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarcellowAugusto/MarcellowAugusto/output/github-contribution-grid-snake.svg">
+</picture>
 
 
