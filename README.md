@@ -31,7 +31,7 @@
 
 ![livraria](https://user-images.githubusercontent.com/SEU_ID_GITHUB/livraria-demo.png) <!-- substitua esse link pelo seu print depois -->
 
-🔗 [Acesse o repositório](https://github.com/MarcellowAugusto)
+🔗 [Acesse o repositório] https://github.com/MarcellowAugusto/SistemaLivraria
 
 ---
 
