@@ -59,5 +59,6 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarcellowAugusto/MarcellowAugusto/output/dist/github-contribution-grid-snake.svg">
 </picture>
 
+![snake gif](https://raw.githubusercontent.com/MarcellowAugusto/MarcellowAugusto/output/dist/github-contribution-grid-snake.svg)
 
 
