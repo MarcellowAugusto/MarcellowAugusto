@@ -29,16 +29,12 @@
 ### 📚 Sistema de Livraria (C# Console)
 > Cadastro, listagem e busca de livros utilizando Programação Orientada a Objetos (POO)
 
-![livraria](https://user-images.githubusercontent.com/SEU_ID_GITHUB/livraria-demo.png) <!-- substitua esse link pelo seu print depois -->
-
 🔗 [Acesse o repositório] https://github.com/MarcellowAugusto/SistemaLivraria
 
 ---
 
 ### 🎮 Quiz de Perguntas e Respostas (C# Console)
 > Jogo de perguntas com múltiplas escolhas, pontuação final e uso de ConsoleColor
-
-![quiz](https://user-images.githubusercontent.com/SEU_ID_GITHUB/quiz-preview.png) <!-- substitua esse link pelo seu print depois -->
 
 🔗 [[Acesse o repositório] (https://github.com/MarcellowAugusto)](https://github.com/MarcellowAugusto/JogoDePerguntas.git)
 
