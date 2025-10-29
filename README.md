@@ -25,6 +25,37 @@
 ---
 
 ## 📌 Projetos em destaque
+<h1 align="center">🌱 Controle de Hábitos (Console C#)</h1>
+<p align="center">
+  Sistema de acompanhamento de hábitos com cadastro, atualização e exibição de progresso.
+</p>
+
+---
+
+## 🧰 Tecnologias e Ferramentas
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📌 Sobre o projeto
+O **Controle de Hábitos** é um sistema de console desenvolvido em **C#**, utilizando **Programação Orientada a Objetos (POO)**.  
+Ele permite:
+
+- Cadastrar hábitos diários;
+- Atualizar informações e progresso;
+- Visualizar status de conclusão;
+- Acompanhar sequência de dias seguidos.
+
+---
+
+## 🖥️ Como usar
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/MarcellowAugusto/ControleDeHabitos.git
 
 ### 📚 Sistema de Livraria (Console C#)
 > Cadastro, listagem e busca de livros utilizando Programação Orientada a Objetos (POO).
