@@ -25,37 +25,6 @@
 ---
 
 ## 📌 Projetos em destaque
-<h1 align="center">🌱 Controle de Hábitos (Console C#)</h1>
-<p align="center">
-  Sistema de acompanhamento de hábitos com cadastro, atualização e exibição de progresso.
-</p>
-
----
-
-## 🧰 Tecnologias e Ferramentas
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📌 Sobre o projeto
-O **Controle de Hábitos** é um sistema de console desenvolvido em **C#**, utilizando **Programação Orientada a Objetos (POO)**.  
-Ele permite:
-
-- Cadastrar hábitos diários;
-- Atualizar informações e progresso;
-- Visualizar status de conclusão;
-- Acompanhar sequência de dias seguidos.
-
----
-
-## 🖥️ Como usar
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/MarcellowAugusto/ControleDeHabitos.git
 
 ### 📚 Sistema de Livraria (Console C#)
 > Cadastro, listagem e busca de livros utilizando Programação Orientada a Objetos (POO).
@@ -72,24 +41,12 @@ git clone https://github.com/MarcellowAugusto/ControleDeHabitos.git
 ---
 
 ### 🌱 Controle de Hábitos (Console C#)
-> Sistema de acompanhamento de hábitos com cadastro, atualização e exibição de progresso.
+> Sistema de acompanhamento de hábitos com cadastro, atualização e exibição de progresso.  
+> Desenvolvido em **C#** usando **POO** e ConsoleColor para interface interativa.
 
 🔗 [Acesse o repositório](https://github.com/MarcellowAugusto/ControleDeHabitos)
 
----
-
-## 📫 Contato
-
-- ✉️ **E-mail:** [marcellowaugusto@hotmail.com](mailto:marcellowaugusto@hotmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/marcellowaugusto](https://linkedin.com/in/marcellowaugusto)
-
----
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcellowAugusto/MarcellowAugusto/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcellowAugusto/MarcellowAugusto/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarcellowAugusto/MarcellowAugusto/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
+#### 🖥️ Como usar
+1. Clone o repositório:
+```bash
+git clone https://github.com/MarcellowAugusto/ControleDeHabitos.git
