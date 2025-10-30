@@ -44,8 +44,17 @@
 > Sistema de acompanhamento de hábitos com cadastro, atualização e exibição de progresso.  
 > Desenvolvido em **C#** usando **POO** e ConsoleColor para interface interativa.
 
-🔗 [Acesse o repositório]
+🔗 [Acesse o repositório](https://github.com/MarcellowAugusto/ControleDeHabitos)
 
+---
 
-git clone https://github.com/MarcellowAugusto/ControleDeHabitos.git
-<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcellowAugusto/MarcellowAugusto/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcellowAugusto/MarcellowAugusto/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarcellowAugusto/MarcellowAugusto/output/github-contribution-grid-snake.svg"> </picture> </p>
+## 🐍 Minhas Contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcellowAugusto/MarcellowAugusto/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcellowAugusto/MarcellowAugusto/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarcellowAugusto/MarcellowAugusto/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
