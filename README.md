@@ -44,7 +44,7 @@
 > Sistema de acompanhamento de hábitos com cadastro, atualização e exibição de progresso.  
 > Desenvolvido em **C#** usando **POO** e ConsoleColor para interface interativa.
 
-🔗 [Acesse o repositório](https://github.com/MarcellowAugusto/Controle-de-Habitos)
+🔗 [Acesse o repositório]
 
 
 git clone https://github.com/MarcellowAugusto/ControleDeHabitos.git
