@@ -1,50 +1,69 @@
 <h1 align="center">Marcello Augusto 🚀</h1>
-<p align="center">🎯 Estudante de ADS | 💻 Dev em formação | 💡 Focado em C# e Banco de Dados</p>
+
+<p align="center">
+💻 Desenvolvedor Back-end C#/.NET em formação <br>
+🚀 Focado em APIs REST, ASP.NET Core e Banco de Dados
+</p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas – Senac  
-- 💼 Em transição de carreira com foco total em desenvolvimento  
-- 💻 Desenvolvendo projetos reais com C# (POO) e MySQL  
-- 🧠 Estudando todos os dias em busca da minha primeira vaga como dev!
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas – Senac
+- 💻 Desenvolvendo APIs REST com ASP.NET Core e Entity Framework
+- 🧠 Estudando autenticação JWT, arquitetura em camadas e boas práticas
+- 🎯 Focado na minha primeira oportunidade como Desenvolvedor Back-end
 
 ---
 
-## 🧰 Tecnologias e Ferramentas (Back-end)
+## 🧰 Tecnologias e Ferramentas
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Web API](https://img.shields.io/badge/ASP.NET%20Web%20API-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📌 Projetos em destaque
+## 🚀 Projetos em destaque
 
-### 📚 Sistema de Livraria (Console C#)
-> Cadastro, listagem e busca de livros utilizando Programação Orientada a Objetos (POO).
+### 📦 Estoque API
+API REST desenvolvida com ASP.NET Core para gerenciamento de estoque.
 
-🔗 [Acesse o repositório](https://github.com/MarcellowAugusto/SistemaLivraria)
+✅ CRUD completo  
+✅ DTOs  
+✅ Services  
+✅ Entity Framework  
+✅ MySQL  
+✅ Swagger  
+
+🔗 [Acesse o repositório](https://github.com/MarcellowAugusto/EstoqueApi)
 
 ---
 
-### 🎮 Quiz de Perguntas e Respostas (Console C#)
-> Jogo de perguntas com múltiplas escolhas, pontuação final e uso de ConsoleColor.
+### 🍽 GastroLink API
+Projeto acadêmico focado em gerenciamento e integração entre restaurantes e influencers.
 
-🔗 [Acesse o repositório](https://github.com/MarcellowAugusto/JogoDePerguntas)
+✅ Autenticação JWT  
+✅ DTOs  
+✅ Services  
+✅ Entity Framework  
+✅ MySQL  
+
+🔗 [Acesse o repositório](https://github.com/MarcellowAugusto/GastroLink)
 
 ---
 
-### 🌱 Controle de Hábitos (Console C#)
-> Sistema de acompanhamento de hábitos com cadastro, atualização e exibição de progresso.  
-> Desenvolvido em **C#** usando **POO** e ConsoleColor para interface interativa.
+## 📚 Atualmente estudando
 
-🔗 [Acesse o repositório](https://github.com/MarcellowAugusto/Controle-de-Habitos)
+- JWT e Authorization
+- Middleware global
+- Clean Code
+- Arquitetura em camadas
+- APIs REST
 
 ---
 
@@ -57,4 +76,3 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarcellowAugusto/MarcellowAugusto/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
