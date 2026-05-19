@@ -53,7 +53,7 @@ Projeto acadêmico focado em gerenciamento e integração entre restaurantes e i
 ✅ Entity Framework  
 ✅ MySQL  
 
-🔗 [Acesse o repositório](https://github.com/MarcellowAugusto/GastroLink)
+🔗 [Acesse o repositório]([https://github.com/MarcellowAugusto/GastroLink](https://github.com/yasumiti-nakahara/PI---GastroLink/tree/backend-marcello/GastroLink.Api))
 
 ---
 
