@@ -45,16 +45,21 @@ API REST desenvolvida com ASP.NET Core para gerenciamento de estoque.
 ---
 
 ### 🍽 GastroLink API
-Projeto acadêmico focado em gerenciamento e integração entre restaurantes e influencers.
+Projeto acadêmico desenvolvido em equipe, focado na conexão entre restaurantes e influenciadores.
 
-✅ Autenticação JWT  
+🧑‍💻 Minha atuação:
+- Desenvolvimento do Back-end
+- APIs REST com ASP.NET Core
+- Autenticação JWT
+- Entity Framework + MySQL
+
+✅ CRUDs completos  
+✅ JWT Authentication  
 ✅ DTOs  
-✅ Services  
 ✅ Entity Framework  
 ✅ MySQL  
 
-🔗 [Acesse o repositório]([https://github.com/MarcellowAugusto/GastroLink](https://github.com/yasumiti-nakahara/PI---GastroLink/tree/backend-marcello/GastroLink.Api))
-
+🔗 [Ver minha branch no projeto](https://github.com/yasumiti-nakahara/PI---GastroLink/tree/backend-marcello)
 ---
 
 ## 📚 Atualmente estudando
