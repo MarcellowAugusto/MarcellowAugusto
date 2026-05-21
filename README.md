@@ -61,8 +61,7 @@ Projeto acadêmico desenvolvido em equipe, focado na conexão entre restaurantes
 
 🔗 [Ver minha branch no projeto](https://github.com/yasumiti-nakahara/PI---GastroLink/tree/backend-marcello)
 ---
-🚀 Projetos em destaque
-🔐 LivroLogin API
+### 🔐 LivroLogin API
 ---
 API REST desenvolvida com ASP.NET Core focada em autenticação e autorização com JWT.
 
