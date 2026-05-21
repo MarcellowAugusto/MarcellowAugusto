@@ -62,21 +62,21 @@ Projeto acadêmico desenvolvido em equipe, focado na conexão entre restaurantes
 🔗 [Ver minha branch no projeto](https://github.com/yasumiti-nakahara/PI---GastroLink/tree/backend-marcello)
 ---
 ### 🔐 LivroLogin API
----
+
 API REST desenvolvida com ASP.NET Core focada em autenticação e autorização com JWT.
 
-✅ JWT Authentication
-✅ Authorization por Roles
-✅ Senha com Hash (BCrypt)
-✅ AutoMapper
-✅ Entity Framework Core
-✅ MySQL
-✅ Relacionamento entre entidades
-✅ DTOs e arquitetura em camadas
-✅ Endpoints protegidos com [Authorize]
+- ✅ JWT Authentication
+- ✅ Authorization por Roles
+- ✅ Senha com Hash (BCrypt)
+- ✅ AutoMapper
+- ✅ Entity Framework Core
+- ✅ MySQL
+- ✅ Relacionamento entre entidades
+- ✅ DTOs e arquitetura em camadas
+- ✅ Endpoints protegidos com `[Authorize]`
 
-[Acesse o repositório](https://github.com/MarcellowAugusto/LivroLogin.Api)
-
+🔗 [Acesse o repositório](https://github.com/MarcellowAugusto/LivroLogin.Api)
+---
 ## 📚 Atualmente estudando
 
 - JWT e Authorization
